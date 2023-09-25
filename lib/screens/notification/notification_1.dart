@@ -35,7 +35,7 @@ class Notification1 extends StatelessWidget {
               return CustomCard(
                 appSize: _appSize,
                 onpressed: () => _openbotomsheet(context),
-                text: 'Category',
+                text: 'category',
               );
             }),
           ],
